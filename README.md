@@ -1,0 +1,2 @@
+# verifyED
+VerifyED generates secure QR codes for school certificates, enabling easy and reliable verification of their authenticity. Educational institutions can issue tamper-proof certificates to students, preventing fraudulent activity and ensuring students receive proper recognition for their achievements. VerifyED is user-friendly and efficient, making it the ideal solution for educational institutions of any size.
